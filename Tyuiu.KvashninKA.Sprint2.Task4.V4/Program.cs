@@ -1,6 +1,6 @@
 ﻿
 using Tyuiu.KvashninKA.Sprint2.Task4.V4.Lib;
-namespace Tyuiu.KvashninKA.Sprint2.Task3.V18;
+namespace Tyuiu.KvashninKA.Sprint2.Task4.V4;
 
 internal class Program
 {
