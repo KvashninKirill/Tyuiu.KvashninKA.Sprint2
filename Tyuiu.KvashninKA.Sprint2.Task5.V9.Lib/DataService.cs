@@ -33,7 +33,7 @@ namespace Tyuiu.KvashninKA.Sprint2.Task5.V9.Lib
                 }
             }
 
-            return $"{n}.{m}";
+            return $"{n:D2}.{m:D2}";
         }
     }
 }
